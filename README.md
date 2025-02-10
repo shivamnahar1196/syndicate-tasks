@@ -61,9 +61,9 @@ Windows: setx SDCT_CONF /Users/snahar/syndicate-tasks/task02/.syndicate-config-d
 echo $SDCT_CONF
 ```
 
-##### 2. Activate venv:
+##### 7. Generate lambda:
 ```
-source .syndicate_venv/bin/activate
+syndicate generate lambda --name hello_world --runtime python
 ```
 
 ##### 2. Activate venv:
