@@ -77,7 +77,7 @@ syndicate create_deploy_target_bucket
 syndicate build -v
 ```
 
-##### 2. Syndicate deploy:
+##### 10. Syndicate deploy:
 ```
 syndicate deploy -v
 ```
