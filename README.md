@@ -66,11 +66,46 @@ echo $SDCT_CONF
 syndicate generate lambda --name hello_world --runtime python
 ```
 
+##### 8. Create deploy target bucket:
+```
+syndicate create_deploy_target_bucket
+```
+
+
+##### 9. Syndicate build:
+```
+syndicate build -v
+```
+
+##### 2. Syndicate deploy:
+```
+syndicate deploy -v
+```
+
 ##### 2. Activate venv:
 ```
 source .syndicate_venv/bin/activate
 ```
 
+##### 2. Activate venv:
+```
+source .syndicate_venv/bin/activate
+```
+
+##### 2. Activate venv:
+```
+source .syndicate_venv/bin/activate
+```
+
+##### 2. Activate venv:
+```
+source .syndicate_venv/bin/activate
+```
+
+##### 2. Activate venv:
+```
+source .syndicate_venv/bin/activate
+```
 
 ##### 2. Activate venv:
 ```
